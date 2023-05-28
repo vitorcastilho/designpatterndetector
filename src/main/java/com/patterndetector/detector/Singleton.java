@@ -1,4 +1,4 @@
-package com.patterndetector.designpattern;
+package com.patterndetector.detector;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

@@ -1,11 +1,11 @@
-package com.patterndetector.designpattern;
+package com.patterndetector.detector;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.detector.files.ReadFile;
-import com.detector.nlp.Pipeline;
+import com.patterndetector.utils.Pipeline;
+import com.patterndetector.utils.ReadFile;
 
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.CoreDocument;

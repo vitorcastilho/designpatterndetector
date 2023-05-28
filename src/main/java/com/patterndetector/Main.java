@@ -3,8 +3,8 @@ package com.patterndetector;
 import java.time.LocalDateTime;
 import java.util.List;
 
-import com.patterndetector.designpattern.Singleton;
-import com.patterndetector.designpattern.SingletonNLP;
+import com.patterndetector.detector.Singleton;
+import com.patterndetector.detector.SingletonNLP;
 import com.patterndetector.utils.DataManipulator;
 
 public class Main {
